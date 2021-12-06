@@ -1,0 +1,19 @@
+.landing {
+    position: relative;
+    background: url('../../Assets/bookImg.jpg') no-repeat center center/cover;
+    height: 100vh;
+    opacity: 0.95;
+  }
+  
+  .landing-inner {
+    color: #fff;
+    height: 100%;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  

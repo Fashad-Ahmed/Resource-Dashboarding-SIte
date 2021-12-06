@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://fashad:fashad@cluster0.lfhuf.mongodb.net/tutor?retryWrites=true&w=majority",
+    "jwtSecret" : "mytoken" 
+}
